@@ -1,0 +1,16 @@
+c:\users\vicious\documents\visual studio 2010\Projects\LargestPrimesSequence\LargestPrimesSequence\bin\Debug\LargestPrimesSequence.exe
+c:\users\vicious\documents\visual studio 2010\Projects\LargestPrimesSequence\LargestPrimesSequence\bin\Debug\LargestPrimesSequence.pdb
+c:\users\vicious\documents\visual studio 2010\Projects\LargestPrimesSequence\LargestPrimesSequence\obj\x86\Debug\LargestPrimesSequence.exe
+c:\users\vicious\documents\visual studio 2010\Projects\LargestPrimesSequence\LargestPrimesSequence\obj\x86\Debug\LargestPrimesSequence.pdb
+C:\Users\Vicious\Documents\Visual Studio 2010\Projects\LargestPrimesSequence\LargestPrimesSequence\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vicious\Documents\Visual Studio 2010\Projects\LargestPrimesSequence - Copy\LargestPrimesSequence\obj\x86\Debug\LargestPrimesSequence.exe
+C:\Users\Vicious\Documents\Visual Studio 2010\Projects\LargestPrimesSequence - Copy\LargestPrimesSequence\obj\x86\Debug\LargestPrimesSequence.pdb
+C:\Users\Vicious\Documents\Visual Studio 2010\Projects\LargestPrimesSequence - Copy\LargestPrimesSequence\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vicious\Documents\Visual Studio 2010\Projects\LargestPrimesSequence - Copy\LargestPrimesSequence\bin\Debug\LargestPrimesSequence.exe
+C:\Users\Vicious\Documents\Visual Studio 2010\Projects\LargestPrimesSequence - Copy\LargestPrimesSequence\bin\Debug\LargestPrimesSequence.pdb
+C:\Users\Vicious\Desktop\TestovoeZadanie\LargestPrimesSequence\LargestPrimesSequence\obj\x86\Debug\LargestPrimesSequence.exe
+C:\Users\Vicious\Desktop\TestovoeZadanie\LargestPrimesSequence\LargestPrimesSequence\obj\x86\Debug\LargestPrimesSequence.pdb
+G:\Dropbox\Dropbox\TestovoeZadanie\LargestPrimesSequence\LargestPrimesSequence\obj\x86\Debug\LargestPrimesSequence.exe
+G:\Dropbox\Dropbox\TestovoeZadanie\LargestPrimesSequence\LargestPrimesSequence\obj\x86\Debug\LargestPrimesSequence.pdb
+G:\Dropbox\Dropbox\TestovoeZadanie\LargestPrimesSequence\LargestPrimesSequence\bin\Debug\LargestPrimesSequence.exe
+G:\Dropbox\Dropbox\TestovoeZadanie\LargestPrimesSequence\LargestPrimesSequence\bin\Debug\LargestPrimesSequence.pdb
